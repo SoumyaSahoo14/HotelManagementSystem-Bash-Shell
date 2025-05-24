@@ -1,5 +1,3 @@
-#!/bin/bash
-
 clear
 echo "===================================="
 echo " Search Guest"
