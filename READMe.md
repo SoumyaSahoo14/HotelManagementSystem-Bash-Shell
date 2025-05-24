@@ -71,7 +71,7 @@ A command-line-based hotel management system developed using Bash shell scriptin
 
 * Add GUI using Zenity
 * Connect to SQLite for persistent storage
-* Add billing and invoice generation
+* Add invoice generation
 * Multi-user support and logging
 
 ---
