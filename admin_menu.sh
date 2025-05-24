@@ -1,5 +1,3 @@
-#!/bin/bash
-
 while true; do
     echo ""
     echo "===== ADMIN MENU ====="
