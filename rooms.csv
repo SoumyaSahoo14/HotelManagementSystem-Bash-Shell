@@ -1,0 +1,10 @@
+RoomNumber,RoomType,Status
+101,Single,Available
+102,Double,Available
+103,Suite,Available 
+104,Single,Occupied
+105,Double,Occupied
+106,Suite,Available
+107,Single,Available
+108,Luxury,Available
+109,PentHouse,Available
