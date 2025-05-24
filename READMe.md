@@ -4,8 +4,8 @@ A command-line-based hotel management system developed using Bash shell scriptin
 
 ---
 ## 👥Contributors
-- [Soumya Jeet Sahoo]
-- [Abhishek Acharya]
+- Soumya Jeet Sahoo
+- Abhishek Acharya
 ## 📂 Project Structure
 
 | File Name               | Description                                    |
