@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "========= 📤 Export Reports Menu ========="
 echo "1. Export All Guest Records"
 echo "2. Export Guest History Log"
