@@ -78,5 +78,5 @@ A command-line-based hotel management system developed using Bash shell scriptin
 
 ## 👩‍💼 Developed By
 
-Soumya Jeet Sahoo & Abhishek Acharya
-IT Infrastructure Management
+* Soumya Jeet Sahoo & Abhishek Acharya
+* IT Infrastructure Management
